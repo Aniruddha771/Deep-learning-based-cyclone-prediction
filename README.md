@@ -49,5 +49,5 @@ Academic Project – Neural Networks and Deep Learning (NNDL)
 ---
 
 ## Author
-**Oishiki Chakraborty**  
+**Aniruddha Sahoo**  
 B.Tech – Computer Science and Engineering
